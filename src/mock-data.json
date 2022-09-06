@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "fullName": "Chevonne Chan",
+    "address": "3334 waterfoot street",
+    "phoneNumber": "073-962-7516",
+    "email": "chevonne.chan@email.com",
+    "idnumber":"0110251008081",
+    "posistion":"ceo"
+    
+  },
+  {
+    "id": 2,
+    "fullName": "Jessica warren",
+    "address": "16497 benny alexanderstreet",
+    "phoneNumber": "061-211-7516",
+    "email": "jessica.warren@email.com",
+    "idnumber":"0220251008086",
+    "posistion":"ceo"
+  },
+  {
+    "id": 3,
+    "fullName": "Elrico Frank",
+    "address": "1111 lesly street",
+    "phoneNumber": "078-962-7516",
+    "email": "elrico.frank@email.com",
+    "idnumber":"0320251008086",
+    "posistion":"ceo"
+  },
+  {
+    "id": 4,
+    "fullName": "Jeremy Clark",
+    "address": "33396 miltown manorstreet",
+    "phoneNumber": "081-962-111",
+    "email": "jeremy.clark@email.com",
+    "idnumber":"0110251008080",
+    "posistion":"ceo"
+  },
+  {
+    "id": 5,
+    "fullName": "Raymond Edwards",
+    "address": "9941 blue acresstreet",
+    "phoneNumber": "081-962-7516",
+    "email": "raymon.edwards@email.com",
+    "idnumber":"0220251008084",
+    "posistion":"ceo"
+
+  }
+]
